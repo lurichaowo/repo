@@ -85,8 +85,9 @@ export class GameService {
       return false; // else not win
     }
 
-  figureBotMove() { // Prioritize by checking block that is complete
-    var bot_move = this.GetCompletingSet(); // ai to move bot 
+  figureBotMove() { // ai to move bot
+    // Prioritize by checking set that can complete
+    var bot_move = this.GetCompletingSet();  
 
     if (bot_move > 0){
       return bot_move;
@@ -98,6 +99,8 @@ export class GameService {
     if ( bot_move > 0){
       return bot_move;
     }
+
+    // else return random block
     return Math.floor(Math.random() * 8) + 1;
   }
 

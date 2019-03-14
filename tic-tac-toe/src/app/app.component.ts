@@ -80,7 +80,30 @@ export class AppComponent {
       this.newGame();
       return;
     }
-    
+  }
+
+  botTurn(){
+    if (this.gs.freeBlocksRemaining <= 0){
+      return;
+    }
+
+    var bot_selected = this.gs.figureBotMove()-1;
+
+    if (this.gs.blocks[bot_selected].free == true){
+      this.playerClick(bot_selected);
+    }
+    else{
+      this.botTurn();
+      return;
+    }
+  }
+
+  changeTurn(){
+    var player = this.gs.changeTurn();
+    if (player ==1){
+      //bot turn
+      this.botTurn();
+    }
   }
 
   title = 'TicTacToe';
