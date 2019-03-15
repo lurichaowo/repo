@@ -9,6 +9,10 @@ These are links to 3 projects I have worked on mostly completed from High School
 
 2. <https://github.com/lurichaowo/3D_Maze_Runner>
 
-##### This last one was my final project during the fall semester of my Freshman year. I had worked on this project with my partner, Lehman. We had this scrabble game in mind as it applied the knowledge of arrays, imports of external libraries, function calling, and dictionaries. However, we did not incorporate the limitations of domino like placement of the tiles nor the 50 point bonus at the end of the game.
+##### The third one was my final project during the fall semester of my Freshman year. I had worked on this project with my partner, Lehman. We had this scrabble game in mind as it applied the knowledge of arrays, imports of external libraries, function calling, and dictionaries. However, we did not incorporate the limitations of domino like placement of the tiles nor the 50 point bonus at the end of the game.
 
 3. <https://github.com/Solepride/Project>
+
+##### The last project is a side project I did using Angular 7 by following a tic-tac-toe tutorial. I updated the imports to match Angular 7 since the tutorial was made for Angular 2. I also implemented my own version of the check and AI. I am also currently working on some more front end elements to make the webpage visually better.
+
+4. https://github.com/lurichaowo/cuny2x/tree/master/tic-tac-toe
