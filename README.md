@@ -1,7 +1,7 @@
 ### Jason Chen
 These are links to 3 projects I have worked on mostly completed from High School until now.
 
-##### This Garden Defender Game was the first project I had finished in my Game Programming class during my last year in High School. The concept of the project was to allow us to familiarize ourselves with the Unity3D interface, the concept of objects, and collision detection.
+##### This is on of the small projects I have completed through an online Udemy tutorial of Web development. It is a photo gallery created by using html and css.
 
 1. <https://github.com/lurichaowo/Garden_Defender>
 
@@ -9,10 +9,10 @@ These are links to 3 projects I have worked on mostly completed from High School
 
 2. <https://github.com/lurichaowo/3D_Maze_Runner>
 
-##### The third one was my final project during the fall semester of my Freshman year. I had worked on this project with my partner, Lehman. We had this scrabble game in mind as it applied the knowledge of arrays, imports of external libraries, function calling, and dictionaries. However, we did not incorporate the limitations of domino like placement of the tiles nor the 50 point bonus at the end of the game.
+##### This is an Image Gallery is created using html and css that I have created with the help of a Udemy Web Development tutorial. It uses bootstrap to display a navbar that also has a hamburger style dropdown menu. The image gallery takes advantage of the bootstrap grid system to allow for dynamic rearranging to the browser size.
 
-3. <https://github.com/Solepride/Project>
+3. <https://github.com/lurichaowo/cuny2x/tree/master/ImageGallery>
 
 ##### The last project is a side project I did using Angular 7 by following a tic-tac-toe tutorial. I updated the imports to match Angular 7 since the tutorial was made for Angular 2. I also implemented my own version of the check and AI. I am also currently working on some more front end elements to make the webpage visually better.
 
-4. https://github.com/lurichaowo/cuny2x/tree/master/tic-tac-toe
+4. <https://github.com/lurichaowo/cuny2x/tree/master/tic-tac-toe>
