@@ -13,10 +13,6 @@ These are links to 3 projects I have worked on mostly completed from High School
 
 3. <https://github.com/lurichaowo/cuny2x/tree/master/tic-tac-toe>
 
-##### This is on of the small projects I have completed through an online Udemy tutorial of Web development. It is a photo gallery created by using html and css.
-
-4. <https://github.com/lurichaowo/Garden_Defender>
-
 
 
 
